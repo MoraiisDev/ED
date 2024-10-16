@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <math.h>
-#include <experimental/random>
+#include <experimental/random> 
 using namespace std;
 
 void exA () {
