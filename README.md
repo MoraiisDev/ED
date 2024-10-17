@@ -4,4 +4,4 @@ Repositório criado para resolução de exercícios da disciplina de Estrutura d
 
 ## 🛠️ Construído com
 
-C++ (https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version)
+C++ (https://code.visualstudio.com/docs/languages/cpp)
